@@ -1,4 +1,3 @@
-14th-program with output
 #include <fstream>
 #include <iostream>
 using namespace std;
