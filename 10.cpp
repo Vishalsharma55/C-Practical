@@ -1,4 +1,3 @@
-program-10 with output
 #include <iostream>
 #include <cmath>
 using namespace std;
