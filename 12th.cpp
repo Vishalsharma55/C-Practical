@@ -1,4 +1,3 @@
-12th-program with output
 #include <iostream>
 #include <stdexcept>
 using namespace std;
