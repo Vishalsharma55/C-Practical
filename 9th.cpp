@@ -1,4 +1,3 @@
-9th-program with output
 #include <iostream>
 using namespace std;
 class Person {
